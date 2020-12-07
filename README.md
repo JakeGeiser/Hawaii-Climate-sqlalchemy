@@ -5,6 +5,7 @@
   * [All Year](#temperature-over-the-corse-of-the-year)
   * [January 1st to April 30th](#temperature-from-january-1st-to-april-30th)
   * [June 1st to November 1st](#temperature-from-june-1st-to-november-1st)
+- [How to use](#how-to-use)
 - [Contact Me](#contact-me)
 
 
