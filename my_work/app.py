@@ -37,10 +37,10 @@ def welcome():
         f"/api/v1.0/stations --- Station information<br/>"
         f"/api/v1.0/tobs --- Last 12 months temperature observation from the most active station<br/>"
         f"/api/v1.0/(start) --- Each day is the average of each identical day for all years<br/>"+
-                f"---(start): enter month you want to start query returns all days after start. Enter (mmdd)<br/>"
+                f"---(start): enter month you want to start query returns all days after start. Enter mm-dd<br/>"
         f"/api/v1.0/(start)/(end) --- Each day is the average of each identical day for all years<br/>"+
-                f"---(start): enter month you want to start query. Enter (mmdd)<br/>"+
-                f"---(end): enter month you want to end query. Enter (mmdd)<br/>"
+                f"---(start): enter month you want to start query. Enter mm-dd<br/>"+
+                f"---(end): enter month you want to end query. Enter mm-dd<br/>"
     )
 
 @app.route("/api/v1.0/precipitation")
