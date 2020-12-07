@@ -32,7 +32,7 @@ A flask app (app.py) is used to construct an API using the sqlite file. The app 
 ![](my_work/images/flaskrange.png)
 
 ## How to use
-If you wish look further into this work, download the my_work folder to get all code and resources used. Recuired python libraries include matplotlib.pyplot, numpy, pandas, scipy.stats, datetime, and sqlalchemy.
+If you wish look further into this work, download the my_work folder to get all code and resources used. Required python libraries include matplotlib.pyplot, numpy, pandas, scipy.stats, datetime, and sqlalchemy. To use the flask app, Flask is also required, and you must execute the app.py file in python termianl with all of the neccessary libraries. While in the same directory as app.py, use command "$ python app.py".
 
 ## Contact me
 Email: geiser.jt@gmail.com
