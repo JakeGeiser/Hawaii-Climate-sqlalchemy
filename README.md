@@ -5,6 +5,7 @@
   * [All Year](#temperature-over-the-corse-of-the-year)
   * [January 1st to April 30th](#temperature-from-january-1st-to-april-30th)
   * [June 1st to November 1st](#temperature-from-june-1st-to-november-1st)
+- [Contact Me](#contact-me)
 
 
 ## Introduction
@@ -22,6 +23,12 @@ Here all years available is averaged for every day of the year to get a good ide
 ![](my_work/images/allCoolTemps.png)
 ### Temperature from June 1st to November 1st
 ![](my_work/images/allWarmTemps.png)
+
+## How to use
+If you wish look further into this work, download the my_work folder to get all code and resources used. Recuired python libraries include matplotlib.pyplot, numpy, pandas, scipy.stats, datetime, and sqlalchemy.
+
+## Contact me
+Email: geiser.jt@gmail.com
 
 
 
