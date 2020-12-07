@@ -1,9 +1,8 @@
-- [Hawaii-Climate-sqlalchemy](#hawaii-climate-sqlalchemy)
-  * [Precipitation](#precipitation)
-  * [Temperatures](#temperatures)
-    + [Temperature over the corse of the year](#temperature-over-the-corse-of-the-year)
-    + [Temperature from January 1st to April 30th](#temperature-from-january-1st-to-april-30th)
-    + [Temperature from June 1st to November 1st](#temperature-from-june-1st-to-november-1st)
+- [Precipitation](#precipitation)
+- [Temperatures](#temperatures)
+  * [Temperature over the corse of the year](#temperature-over-the-corse-of-the-year)
+  * [Temperature from January 1st to April 30th](#temperature-from-january-1st-to-april-30th)
+  * [Temperature from June 1st to November 1st](#temperature-from-june-1st-to-november-1st)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
