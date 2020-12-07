@@ -28,6 +28,8 @@ Here all years available is averaged for every day of the year to get a good ide
 
 ## Flask app
 A flask app (app.py) is used to construct an API using the sqlite file. The app can currently be run locally, but is designed to function as live API. It can be used to get JSON dictionary objects for precipitation and max/avg/min temperatures for each day on Hawaii. Below, you can see the different options included and an example of it's functionality.
+![](my_work/images/flaskhome.png)
+![](my_work/images/flaskrange.png)
 
 ## How to use
 If you wish look further into this work, download the my_work folder to get all code and resources used. Recuired python libraries include matplotlib.pyplot, numpy, pandas, scipy.stats, datetime, and sqlalchemy.
